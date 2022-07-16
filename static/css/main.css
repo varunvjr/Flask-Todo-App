@@ -1,0 +1,11 @@
+table{
+    border: 1px solid black;
+}
+.content{
+    margin-left: 40%;
+}
+body{
+    margin:auto;
+    font-family: sans-serif;
+   
+}
